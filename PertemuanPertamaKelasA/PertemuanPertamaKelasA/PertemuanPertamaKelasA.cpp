@@ -10,7 +10,7 @@ int main()
 	cin >> nJejari; 
 	//accept "njejari"
 	nLuas = 3.14 * nJejari * nJejari;
-		cout << "luasnya =" << endl;
+		cout << "luasnya lingkaran =" << endl;
 	
 	
 }
